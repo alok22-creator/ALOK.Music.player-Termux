@@ -8,4 +8,6 @@ Simple terminal music player made by Alok 😎
 - Lightweight
 
 ## Run
-bash music.sh
+bash music.h
+
+wget yt-dlp
